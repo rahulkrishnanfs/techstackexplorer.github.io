@@ -14,7 +14,7 @@ canonifyURLs = true
 
 [params]
   # Sets the meta tag description
-  description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
+  description          = "Tech Stack Explorer"
   # Sets the navbarTitle that appears in the top left of the navigation bar
   navbarTitle          = "Tech Stack Explorer"
   # Sets where "View More Posts" links
@@ -92,7 +92,7 @@ canonifyURLs = true
 
   paragraph = "DevOps consultant"
 
-  about     = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
+  about     = "Programmer who interested in solving problems. Interested in Microservices, Containers and Automation"
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
